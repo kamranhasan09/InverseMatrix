@@ -1,3 +1,4 @@
+//This code is contribute by Kamran Hasan 
 import java.util.Scanner;
 
 class inversematrix {
